@@ -1,0 +1,12 @@
+question,answer
+"What is ML?","ML means training computer using data"
+"How are you?","I'm fine!"
+"What is AI?","AI is the simulation of human intelligence by machines"
+"What is deep learning?","A subset of ML using neural networks with many layers"
+"What is a dataset?","A collection of data used for training or testing models"
+"What is supervised learning?","Learning from labeled examples"
+"What is unsupervised learning?","Learning patterns from unlabeled data"
+"What is a neural network?","A model inspired by the human brain’s structure"
+"What is Python used for?","Python is used for programming, including AI and data analysis"
+"What is a chatbot?","A program designed to interact with users conversationally"
+"What is data science?","A field that combines statistics, programming, and domain knowledge to extract insights"
